@@ -1,0 +1,1 @@
+{"version":3,"sources":["domain/models/player.ts"],"names":[],"mappings":"","file":"../../../Happy/src/domain/models/player.js","sourcesContent":["export interface PlayerModel {\r\n    name: string\r\n    playerId: number\r\n    score: number\r\n    money: number\r\n}\r\n"],"sourceRoot":"../../../../../src/"}

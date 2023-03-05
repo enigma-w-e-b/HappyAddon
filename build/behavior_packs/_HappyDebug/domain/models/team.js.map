@@ -1,0 +1,1 @@
+{"version":3,"sources":["domain/models/team.ts"],"names":[],"mappings":"","file":"../../../Happy/src/domain/models/team.js","sourcesContent":["export interface TeamModel {\r\n    teamId: number\r\n    name: string\r\n    pontos: number\r\n}\r\n"],"sourceRoot":"../../../../../src/"}

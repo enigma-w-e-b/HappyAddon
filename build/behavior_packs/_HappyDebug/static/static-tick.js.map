@@ -1,0 +1,1 @@
+{"version":3,"sources":["static/static-tick.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,iBAAiB,GAAG,EAAE,CAAC","file":"../../Happy/src/static/static-tick.js","sourcesContent":["export const TICK_SCORE_UPDATE = 15;\r\n"],"sourceRoot":"../../../../src/"}
